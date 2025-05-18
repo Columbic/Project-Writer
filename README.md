@@ -1,17 +1,16 @@
-# Contributing to the Enajdic Archive
+# The Enajdic Concord
 
-Welcome, curious contributor.
+This is the living archive of Enajd’s writings—raw, mythic, quasi-sacred.
 
-Feel free to:
-- Suggest design changes (CSS, layout, dark mode, mobile fixes)
-- Help fix typos in HTML or metadata
-- Submit pull requests for performance improvements
+## What This Is:
+A digital vault of stories, prose, and poetic apocalypse. Browse. Read. Recoil.
 
-**Do NOT:**
-- Edit or republish the stories themselves
-- Use the prose elsewhere
-- Translate or adapt without written permission
+## Want to Contribute?
+You're welcome to help improve the site itself—just don’t touch the sacred texts unless you've been invited. See `CONTRIBUTING.md`.
 
-This is a literary sanctum, not a dev playground.
+## Licensing
+No license. All rights reserved. These words are not yours to remix.
 
-Praise be to KAITO.
+## Contact
+Open an issue or whisper your intentions into the void. I may answer. 
+enajdzani@protonmail.com
